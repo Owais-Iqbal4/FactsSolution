@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/FactsSolution/static/css/main.4b565d8d.css",
+    "main.js": "/FactsSolution/static/js/main.105fe246.js",
+    "static/js/787.79680669.chunk.js": "/FactsSolution/static/js/787.79680669.chunk.js",
+    "static/media/1.jpg": "/FactsSolution/static/media/1.b364939d3133e7b7c592.jpg",
+    "static/media/services_pic1.png": "/FactsSolution/static/media/services_pic1.4ec4d6c2f9450a1aa60a.png",
+    "static/media/vbs_pic.png": "/FactsSolution/static/media/vbs_pic.e70e8c505bfed4f468e8.png",
+    "static/media/2.jpg": "/FactsSolution/static/media/2.e66962184a70b2a4c797.jpg",
+    "static/media/4.jpg": "/FactsSolution/static/media/4.072e15cb65a3fe44e0f8.jpg",
+    "static/media/5.jpg": "/FactsSolution/static/media/5.172a4f2840387d309901.jpg",
+    "static/media/3.jpg": "/FactsSolution/static/media/3.916f3e4bbceee2a8c360.jpg",
+    "static/media/software_pic3.png": "/FactsSolution/static/media/software_pic3.7917d24dd14105b910ab.png",
+    "static/media/services_comp4.png": "/FactsSolution/static/media/services_comp4.f19dfc75d9b22d03998d.png",
+    "static/media/services_comp5.png": "/FactsSolution/static/media/services_comp5.8601b95378be61ae1844.png",
+    "static/media/services_comp3.png": "/FactsSolution/static/media/services_comp3.6e9549310c20b67dc300.png",
+    "static/media/services_comp1.png": "/FactsSolution/static/media/services_comp1.1a5179cf28c54840a7d5.png",
+    "static/media/services_comp2.png": "/FactsSolution/static/media/services_comp2.9098057c463e4cb35f2a.png",
+    "static/media/software_pic4.png": "/FactsSolution/static/media/software_pic4.804db3eff6da253d52de.png",
+    "static/media/software_pic2.png": "/FactsSolution/static/media/software_pic2.ea216f17983a56b45b78.png",
+    "static/media/software_pic1.png": "/FactsSolution/static/media/software_pic1.420285488934e993e317.png",
+    "static/media/logo.png": "/FactsSolution/static/media/logo.c4e9df064019611c5523.png",
+    "index.html": "/FactsSolution/index.html",
+    "main.4b565d8d.css.map": "/FactsSolution/static/css/main.4b565d8d.css.map",
+    "main.105fe246.js.map": "/FactsSolution/static/js/main.105fe246.js.map",
+    "787.79680669.chunk.js.map": "/FactsSolution/static/js/787.79680669.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b565d8d.css",
+    "static/js/main.105fe246.js"
+  ]
+}
