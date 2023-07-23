@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/FactsSolution/static/css/main.4726998e.css",
+    "main.css": "/FactsSolution/static/css/main.ef1d0cfe.css",
     "main.js": "/FactsSolution/static/js/main.5d8c4f8f.js",
     "static/js/787.79680669.chunk.js": "/FactsSolution/static/js/787.79680669.chunk.js",
     "static/media/1.jpg": "/FactsSolution/static/media/1.b364939d3133e7b7c592.jpg",
@@ -21,12 +21,12 @@
     "static/media/software_pic1.png": "/FactsSolution/static/media/software_pic1.420285488934e993e317.png",
     "static/media/logo.svg": "/FactsSolution/static/media/logo.bde1cb4403ca3724523ed4c9c4bc8fb4.svg",
     "index.html": "/FactsSolution/index.html",
-    "main.4726998e.css.map": "/FactsSolution/static/css/main.4726998e.css.map",
+    "main.ef1d0cfe.css.map": "/FactsSolution/static/css/main.ef1d0cfe.css.map",
     "main.5d8c4f8f.js.map": "/FactsSolution/static/js/main.5d8c4f8f.js.map",
     "787.79680669.chunk.js.map": "/FactsSolution/static/js/787.79680669.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4726998e.css",
+    "static/css/main.ef1d0cfe.css",
     "static/js/main.5d8c4f8f.js"
   ]
 }
