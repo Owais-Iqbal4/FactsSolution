@@ -1,13 +1,8 @@
 import './Services.css'
-import Slider from 'react-infinite-logo-slider'
-
+import LogoSlider from '../LogoSlider'
 
 import mapPic from '../../images/services_pic1.png'
-import comp1 from '../../images/services_comp1.png'
-import comp2 from '../../images/services_comp2.png'
-import comp3 from '../../images/services_comp3.png'
-import comp4 from '../../images/services_comp4.png'
-import comp5 from '../../images/services_comp5.png'
+
 
 function index() {
 
@@ -23,8 +18,10 @@ function index() {
                     </div>
                     {/* carousel */}
                     <div className='w-[75%] p-5 logo-slider-div'>
-
-                        <Slider
+                    <h1 className='text-center text-[30px] p-3 font-semibold'>Industries we Serve(d) includes, but not limited to</h1>
+<br />
+<LogoSlider />
+                        {/* <Slider
                             width="250px"
                             duration={40}
                             pauseOnHover={true}
@@ -69,7 +66,7 @@ function index() {
 
                                 </div>                        </Slider.Slide>
 
-                        </Slider>
+                        </Slider> */}
                     </div>
 
                     <div className='w-[75%] p-5 client-approach-div'>

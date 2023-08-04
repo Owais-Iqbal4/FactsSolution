@@ -4,7 +4,7 @@ import 'aos/dist/aos.css';
 import AnimatedCursor from "react-animated-cursor"
 import { useSelector } from 'react-redux';
 
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { HashRouter, Routes, Route } from 'react-router-dom';
 
 import Home from '../Home'
 import ContactUs from '../ContactUs'
@@ -77,7 +77,7 @@ function Navigation() {
                 className={class1}
             >
 
-                <BrowserRouter>
+                <HashRouter>
                     <Routes>
                         <Route element={<TopNavigationPath />}>
                             <Route path="/" element={<Home />} />
@@ -87,7 +87,7 @@ function Navigation() {
                             <Route path="/contactUs" element={<ContactUs />} />
                         </Route>
                     </Routes>
-                </BrowserRouter>
+                </HashRouter>
             </div>
 
             {/* animated cursor */}
